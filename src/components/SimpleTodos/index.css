@@ -1,0 +1,15 @@
+/* Write your CSS here */
+.background {
+  background-color: #ffc2a0;
+  height: 100vh;
+  padding:20px
+}
+
+.back {
+  background-color: #ffffff;
+}
+
+.head {
+  color: #ff8542;
+  text-align:center;
+}
